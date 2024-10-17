@@ -11,6 +11,7 @@
 - Hi i am Watiri
 - Hi i am Algo
 - Hi i am Itachi Uchiha
+- hi , i am BETT
 - Hi, this is Arun!
 - Hi I am Shahnwaz Khan!!! (https://github.com/khanshahnwaz/)
 - Hi I am Audrie!!! (https://github.com/audrie-nielsen)
